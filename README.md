@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guilherme Santos Nunes, Sannunez is my nickname though</h2>
+<h2 align="left">Hi 👋! My name is Guilherme Santos Nunes, Sannunez is my nickname though =) </h2>
 <p align='center'>I'm a Software Engineering Student at FIAP - Paulista.</p>
 <p align='center'>
 I'm 20 years old, and I'm looking for job and internship opportunities. My intention is to become a Full Stack developer. I have a certain taste for Art and Design as an Front End Dev, but I also like working and studying "behind the curtains" as a Back End one.
