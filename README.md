@@ -42,6 +42,6 @@ I'm 20 years old, and I'm looking for job and internship opportunities. My inten
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sannunez/sannunez/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/sannunez/sannunez/blob/output/github-contribution-grid-snake.svg)
 
 ###
